@@ -59,7 +59,7 @@ Each diagram should illustrate only one core structure. The prompt must include:
 Do not replicate past examples. Examples only provide style density and how ZaiZai Bean (the author) participates; do not directly reuse existing compositions such as "conveyor belt breakpoints/ZaiZai Bean line drawing/material fish/stamp toolbox/common pitfall paths," unless the user explicitly requests a specific image to be replicated. Do not reinvent a strange but valid metaphor from the current case study each time.
 
 ### 4. Inspection and Iteration
-After generating, check `reference/qa-checklist.md`. If the following problems occur, prioritize regenerating or partially editing:
+After generating, check `references/qa-checklist.md`. If the following problems occur, prioritize regenerating or partially editing:
 - The little brown thing is just for decoration.
 - The screen is too full.
 - Too much like a flowchart/PPT
