@@ -14,12 +14,12 @@ The default visual IP is "ZaiZai Bean":solid brown, white dotted eyes, thin legs
 ## Read these references first
 
 Read only as needed for the task; do not fill the entire context at once.
-- Style DNA, colors, text, tabos.
-- The image, personality, action library, and taboos of the ZaiZai Bean IP.
-- Structure type, original metaphor method and iterative engraving rules.
-- Template for prompts for single raw images.
-- Post-generation inspection and iteration rules.
-- Perform only low-frequency visual calibration and do not enter the default generation path. Do not copy the composition, objects, or annotations of these examples.
+- `references/style-dna.md` Style DNA, colors, text, tabos.
+- `references/zaizai-ip.md` The image, personality, action library, and taboos of the ZaiZai Bean IP.
+- `references/composition-patterns.md` Structure type, original metaphor method and iterative engraving rules.
+- `references/prompt-template.md` Template for prompts for single raw images.
+- `references/qa-checklist.md` Post-generation inspection and iteration rules.
+- `assets/examples/` Perform only low-frequency visual calibration and do not enter the default generation path. Do not copy the composition, objects, or annotations of these examples.
 
 ## Workflow
 
